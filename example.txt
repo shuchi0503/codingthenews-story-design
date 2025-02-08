@@ -1,2 +1,0 @@
-example.txt
-this is a text file
